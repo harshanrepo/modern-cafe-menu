@@ -6,7 +6,7 @@ A clean and responsive cafe menu website built using **HTML** and **CSS**. This 
 
 🚀 Live Demo
 
-👉 [View Live Project](https://your-live-link-here.com)
+👉 [View Live Project]([https://your-live-link-here.com](https://harshanrepo.github.io/modern-cafe-menu/))
 
 ---
 
